@@ -1,0 +1,235 @@
+.WhatsappBanner_whatsUpBannerMain__p41t5 {
+  background: linear-gradient(
+    92.82deg,
+    #fff6de 2.08%,
+    #ffddd6 74.9%,
+    #fff4dc 97.17%
+  );
+  border-radius: 5px;
+  min-height: 157px;
+  padding: 0 30px;
+  overflow: hidden;
+}
+
+.WhatsappBanner_logoSection__ClwSZ,
+.WhatsappBanner_whatsUpBannerMain__p41t5 {
+  display: flex;
+  display: -webkit-flex;
+  align-items: center;
+  -webkit-align-items: center;
+  justify-content: space-between;
+  -webkit-justify-content: space-between;
+  flex-direction: row;
+}
+
+.WhatsappBanner_logoSection__ClwSZ .WhatsappBanner_logoBx__H39Sj {
+  width: 90px;
+  height: 64px;
+  margin-right: 15px;
+}
+
+.WhatsappBanner_logoSection__ClwSZ .WhatsappBanner_logoBx__H39Sj img {
+  -o-object-fit: contain;
+  object-fit: contain;
+  width: 100%;
+  height: 100%;
+}
+
+.WhatsappBanner_logoSection__ClwSZ .WhatsappBanner_orderTxt__nCrp6 {
+  width: 203px;
+  font-size: 18px;
+  padding-right: 14px;
+  line-height: 1.3;
+}
+
+.WhatsappBanner_logoSection__ClwSZ .WhatsappBanner_orderTxt__nCrp6 span {
+  display: inline-block;
+}
+
+.WhatsappBanner_logoSection__ClwSZ
+  .WhatsappBanner_orderTxt__nCrp6
+  .WhatsappBanner_whatsUpTxt__xCP3z {
+  display: block;
+  color: #fc9916;
+  font-weight: 400;
+  font-weight: 700;
+  font-size: 30px;
+  text-transform: uppercase;
+}
+
+.WhatsappBanner_logoSection__ClwSZ .WhatsappBanner_orderTxt__nCrp6 b {
+  font-weight: 400;
+  font-weight: 700;
+  margin-right: 10px;
+}
+
+.WhatsappBanner_logoSection__ClwSZ
+  .WhatsappBanner_orderTxt__nCrp6
+  .WhatsappBanner_bottomTxt__L040P {
+  color: #02475b;
+  text-transform: uppercase;
+  font-size: 30px;
+  line-height: 1;
+}
+
+.WhatsappBanner_getCashBackBx__JvLWP {
+  text-align: center;
+  max-width: 352px;
+  display: flex;
+  display: -webkit-flex;
+  align-items: center;
+  -webkit-align-items: center;
+  justify-content: center;
+  -webkit-justify-content: center;
+  flex-direction: column;
+  margin-right: 42px;
+}
+
+.WhatsappBanner_getCashBackBx__JvLWP .WhatsappBanner_cashBacktxt__6gZmg {
+  font-size: 16px;
+  line-height: 25px;
+  margin-bottom: 8px;
+}
+
+.WhatsappBanner_getCashBackBx__JvLWP
+  .WhatsappBanner_cashBacktxt__6gZmg
+  > .WhatsappBanner_highlightTxt__wEAsb {
+  font-weight: 400;
+  font-weight: 700;
+  text-transform: uppercase;
+  display: inline-block;
+}
+
+.WhatsappBanner_getCashBackBx__JvLWP > .WhatsappBanner_actionBtn__nk7Rr {
+  background: #fc9916;
+  -webkit-backdrop-filter: blur(40px);
+  backdrop-filter: blur(40px);
+  border-radius: 4px;
+  color: #fff;
+  min-height: 40px;
+  display: flex;
+  display: -webkit-flex;
+  align-items: center;
+  -webkit-align-items: center;
+  justify-content: center;
+  -webkit-justify-content: center;
+  flex-direction: row;
+  font-size: 16px;
+  line-height: 14px;
+  padding: 0 16px;
+  border: none;
+  cursor: pointer;
+  white-space: nowrap;
+}
+
+.WhatsappBanner_getCashBackBx__JvLWP > .WhatsappBanner_actionBtn__nk7Rr > img {
+  max-height: 22px;
+  max-width: 22px;
+  width: 100%;
+  margin-left: 8px;
+}
+
+.WhatsappBanner_rightSection__7DwBi {
+  width: 250px;
+  text-align: center;
+}
+
+.WhatsappBanner_rightSection__7DwBi > img {
+  max-width: 250px;
+  max-height: 144px;
+  -o-object-fit: contain;
+  object-fit: contain;
+  position: relative;
+  bottom: -13px;
+}
+
+@media (max-width: 767.9px) {
+  .WhatsappBanner_whatsUpBannerMain__p41t5 {
+    flex-direction: column;
+    position: relative;
+    padding: 10px 14px 0;
+    margin-bottom: 20px;
+    min-height: 137px;
+  }
+
+  .WhatsappBanner_logoSection__ClwSZ,
+  .WhatsappBanner_whatsUpBannerMain__p41t5 {
+    justify-content: flex-start;
+    align-items: flex-start;
+  }
+
+  .WhatsappBanner_logoSection__ClwSZ .WhatsappBanner_logoBx__H39Sj {
+    position: absolute;
+    right: 10px;
+    top: 5px;
+    margin: 0;
+    width: 60px;
+    height: 37px;
+  }
+
+  .WhatsappBanner_logoSection__ClwSZ .WhatsappBanner_orderTxt__nCrp6 {
+    width: 100%;
+    font-size: 12px;
+    margin-bottom: 3px;
+    line-height: 24px;
+    padding-right: 50px;
+  }
+
+  .WhatsappBanner_logoSection__ClwSZ .WhatsappBanner_orderTxt__nCrp6 > b {
+    margin-right: 3px;
+  }
+
+  .WhatsappBanner_logoSection__ClwSZ
+    .WhatsappBanner_orderTxt__nCrp6
+    .WhatsappBanner_bottomTxt__L040P,
+  .WhatsappBanner_logoSection__ClwSZ
+    .WhatsappBanner_orderTxt__nCrp6
+    .WhatsappBanner_whatsUpTxt__xCP3z {
+    display: inline-block;
+    font-size: 14px;
+  }
+
+  .WhatsappBanner_logoSection__ClwSZ
+    .WhatsappBanner_orderTxt__nCrp6
+    .WhatsappBanner_whatsUpTxt__xCP3z {
+    padding: 0 5px;
+  }
+
+  .WhatsappBanner_getCashBackBx__JvLWP {
+    text-align: left;
+    align-items: flex-start;
+    position: relative;
+    z-index: 0;
+    margin: 0 0 20px;
+    max-width: auto;
+  }
+
+  .WhatsappBanner_getCashBackBx__JvLWP .WhatsappBanner_cashBacktxt__6gZmg {
+    font-size: 9px;
+    line-height: 14px;
+    margin-bottom: 29px;
+    max-width: 55%;
+  }
+
+  .WhatsappBanner_getCashBackBx__JvLWP > .WhatsappBanner_actionBtn__nk7Rr {
+    max-width: 226px;
+    font-size: 12px;
+    padding: 0 11px;
+  }
+
+  .WhatsappBanner_rightSection__7DwBi {
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    z-index: 1;
+    width: auto;
+  }
+
+  .WhatsappBanner_rightSection__7DwBi > img {
+    max-height: 100px;
+    position: relative;
+    bottom: -4px;
+  }
+}
+
+/*# sourceMappingURL=7a274165e1bae513.css.map*/

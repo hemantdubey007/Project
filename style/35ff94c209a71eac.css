@@ -1,0 +1,1611 @@
+.MegaMenu_megaMenuRoot__O7BEw {
+  width: 100%;
+  background: #1a504c;
+  position: sticky;
+  z-index: 8;
+  top: 101px;
+}
+
+.MegaMenu_megaMenuRoot__O7BEw .MegaMenu_mmMain__uuXOh {
+  width: 100%;
+  color: #fff;
+  height: 40px;
+}
+
+@media (max-width: 991.9px) {
+  .MegaMenu_megaMenuRoot__O7BEw .MegaMenu_mmMain__uuXOh {
+    height: 38px;
+  }
+}
+
+@media (max-width: 767.9px) {
+  .MegaMenu_megaMenuRoot__O7BEw .MegaMenu_mmMain__uuXOh {
+    display: none;
+  }
+}
+
+.MegaMenu_megaMenuRoot__O7BEw .MegaMenu_mmList__aQ_cj {
+  list-style: none;
+  display: flex;
+  display: -webkit-flex;
+  align-items: stretch;
+  -webkit-align-items: stretch;
+  justify-content: space-between;
+  -webkit-justify-content: space-between;
+  flex-direction: row;
+  height: 100%;
+}
+
+.MegaMenu_megaMenuRoot__O7BEw .MegaMenu_mmList__aQ_cj > li {
+  position: relative;
+  transition: all 0.2s ease-in-out;
+  padding: 0 4px;
+}
+
+.MegaMenu_megaMenuRoot__O7BEw .MegaMenu_mmList__aQ_cj > li > a {
+  color: #fafbf9;
+  font-size: 12px;
+  font-weight: 600;
+  padding: 0 6px;
+  transition: all 0.2s ease-in-out;
+  display: flex;
+  display: -webkit-flex;
+  align-items: center;
+  -webkit-align-items: center;
+  justify-content: center;
+  -webkit-justify-content: center;
+  flex-direction: row;
+  height: 100%;
+  text-align: center;
+}
+
+@media (max-width: 991.9px) {
+  .MegaMenu_megaMenuRoot__O7BEw .MegaMenu_mmList__aQ_cj > li > a {
+    font-size: 10px;
+  }
+}
+
+.MegaMenu_megaMenuRoot__O7BEw .MegaMenu_mmList__aQ_cj > li > a:before {
+  content: "";
+  background: transparent;
+  height: 2px;
+  width: 100%;
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  border-radius: 8px;
+}
+
+.MegaMenu_megaMenuRoot__O7BEw .MegaMenu_mmList__aQ_cj > li > a:hover {
+  background: #228a87;
+}
+
+.MegaMenu_megaMenuRoot__O7BEw .MegaMenu_mmList__aQ_cj > li > a:hover:before {
+  background: #e5f9f8;
+}
+
+.MegaMenu_megaMenuRoot__O7BEw
+  .MegaMenu_mmList__aQ_cj
+  > li:nth-last-of-type(-n + 5)
+  > .MegaMenu_mmSubMain__hQpaD {
+  right: 0;
+}
+
+.MegaMenu_megaMenuRoot__O7BEw .MegaMenu_mmSubMain__hQpaD {
+  position: absolute;
+  width: auto;
+  max-width: 920px;
+  top: 40px;
+  z-index: 4;
+  transition: all 0.5s ease-in-out;
+  max-height: calc(100vh - 150px);
+  overflow: auto;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+}
+
+.MegaMenu_megaMenuRoot__O7BEw .MegaMenu_mmColumn__eOnh_:nth-child(2n) {
+  background: #e5f9f8;
+}
+
+.MegaMenu_megaMenuRoot__O7BEw .MegaMenu_title__fv9Ul {
+  font-weight: 700;
+  font-size: 14px;
+  margin-bottom: 8px;
+}
+
+.MegaMenu_megaMenuRoot__O7BEw .MegaMenu_mmCategoryList__Ozd8R {
+  margin-bottom: 15px;
+  padding: 0;
+}
+
+.MegaMenu_megaMenuRoot__O7BEw .MegaMenu_mmCategoryList__Ozd8R li {
+  list-style: none;
+}
+
+.MegaMenu_megaMenuRoot__O7BEw .MegaMenu_mmCategoryList__Ozd8R li > a {
+  color: #121414;
+  font-size: 12px;
+  width: 100%;
+  transition: all 0.2s ease-in-out;
+  margin-bottom: 8px;
+  font-weight: 500;
+}
+
+.MegaMenu_megaMenuRoot__O7BEw .MegaMenu_mmCategoryList__Ozd8R li > a:hover {
+  background: rgba(0, 0, 0, 0.02);
+}
+
+.MegaMenu_mmSubMain1__VKAhk {
+  opacity: 0 !important;
+}
+
+@media (min-width: 768px) {
+  .Home_homepageContainer__e8x3s .Home_searchRoot__puhsE {
+    height: 180px;
+    overflow: hidden;
+    width: 100%;
+    background: #162c2a;
+  }
+
+  .Home_homepageContainer__e8x3s
+    .Home_searchRoot__puhsE
+    .Home_insideSearchContainer__pZiBD {
+    padding: 24px 0;
+    margin: 0 auto;
+    max-width: 628px;
+    text-align: center;
+  }
+
+  .Home_homepageContainer__e8x3s
+    .Home_searchRoot__puhsE
+    .Home_insideSearchContainer__pZiBD
+    .Home_title__Gzr74 {
+    font-size: 30px;
+    margin-bottom: 24px;
+    line-height: 36px;
+    font-weight: 700;
+    color: #fff;
+  }
+
+  .Home_homepageContainer__e8x3s
+    .Home_searchRoot__puhsE
+    .Home_insideSearchContainer__pZiBD
+    .Home_title__Gzr74
+    .Home_userName__OC70e {
+    color: #165d59;
+    display: inline-block;
+    position: relative;
+    margin-right: 20px;
+    padding-right: 30px;
+  }
+
+  .Home_homepageContainer__e8x3s
+    .Home_searchRoot__puhsE
+    .Home_insideSearchContainer__pZiBD
+    .Home_title__Gzr74
+    .Home_userName__OC70e:before {
+    content: "îªš";
+    color: #165d59;
+    font-family: icomoon;
+    position: absolute;
+    right: -10px;
+    top: 50%;
+    transform: translateY(-50%);
+  }
+
+  .Home_homepageContainer__e8x3s
+    .Home_searchRoot__puhsE
+    .Home_insideSearchContainer__pZiBD
+    .Home_title__Gzr74
+    .Home_userName__OC70e:after {
+    content: "";
+    width: calc(100% - 30px);
+    height: 2px;
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    background: #165d59;
+  }
+
+  .Home_homepageContainer__e8x3s
+    .Home_searchRoot__puhsE
+    .Home_searchSelectMain__B47i3
+    > div {
+    height: 56px;
+  }
+
+  .Home_homepageContainer__e8x3s
+    .Home_searchRoot__puhsE
+    .Home_searchSelectMain__B47i3
+    > div
+    > span {
+    height: 24px;
+    width: 24px;
+    font-size: 24px;
+  }
+
+  .Home_homepageContainer__e8x3s
+    .Home_searchRoot__puhsE
+    .Home_searchSelectMain__B47i3
+    > div
+    > span:before {
+    color: #165d59;
+  }
+
+  .Home_homepageContainer__e8x3s
+    .Home_searchRoot__puhsE
+    .Home_searchSelectMain__B47i3
+    > div
+    > input::-moz-placeholder {
+    color: #4b4a48;
+    font-size: 16px;
+    font-weight: 400;
+    opacity: 0.7;
+  }
+
+  .Home_homepageContainer__e8x3s
+    .Home_searchRoot__puhsE
+    .Home_searchSelectMain__B47i3
+    > div
+    > input:-ms-input-placeholder {
+    color: #4b4a48;
+    font-size: 16px;
+    font-weight: 400;
+    opacity: 0.7;
+  }
+
+  .Home_homepageContainer__e8x3s
+    .Home_searchRoot__puhsE
+    .Home_searchSelectMain__B47i3
+    > div
+    > input::placeholder {
+    color: #4b4a48;
+    font-size: 16px;
+    font-weight: 400;
+    opacity: 0.7;
+  }
+
+  .Home_homepageContainer__e8x3s
+    .Home_searchRoot__puhsE
+    .Home_verticalSepration__0w9BD {
+    width: 1px;
+    background: #d8f2e6;
+    height: 100%;
+    display: inline-block;
+    margin-left: 50%;
+  }
+
+  .Home_homepageContainer__e8x3s
+    .Home_searchRoot__puhsE
+    .Home_uploadPresBx__b4Knu
+    button {
+    justify-content: center;
+  }
+
+  .Home_homepageContainer__e8x3s
+    .Home_searchRoot__puhsE
+    .Home_insideSearch__52iDO {
+    max-width: 1340px;
+    height: 100%;
+    margin: 0 auto;
+    background-image: url(https://images.apollo247.in/images/ui_revamp_searchBanner1.svg),
+      url(https://images.apollo247.in/images/ui_revamp_searchBanner2.svg);
+    background-position: 0 100%, 100% 100%;
+    background-repeat: no-repeat;
+  }
+}
+
+@media (max-width: 991.9px) {
+  .Home_homepageContainer__e8x3s
+    .Home_searchRoot__puhsE
+    .Home_insideSearch__52iDO {
+    background-position: -20% 100%, 120% 100%;
+    background-size: 250px;
+  }
+}
+
+.Home_dynamicMainContent__HYQ21 {
+  background: #fff;
+  padding-top: 32px;
+  min-height: 1000px;
+}
+
+@media (max-width: 767.9px) {
+  .Home_dynamicMainContent__HYQ21 {
+    min-height: 400px;
+  }
+}
+
+.Home_dynamicMainContent__HYQ21
+  [class^="GridSection_"]
+  + [class^="GridSection_"] {
+  margin-top: -20px;
+}
+
+.Home_mainContent__1MJw_ {
+  background: #fff;
+}
+
+@media (max-width: 767.9px) {
+  .Home_mainContent__1MJw_ {
+    background: #f7f8f5;
+  }
+}
+
+.Home_medicineMainSection__bzHl6 {
+  background: #fff;
+  padding: 20px 30px;
+  position: relative;
+  box-shadow: none;
+  display: flex;
+  display: -webkit-flex;
+  -webkit-align-items: flex-start;
+  justify-content: unset;
+  -webkit-justify-content: unset;
+  flex-direction: row;
+  align-items: flex-start;
+}
+
+@media (max-width: 767.9px) {
+  .Home_medicineMainSection__bzHl6 {
+    flex-direction: column;
+    padding: 0;
+    min-height: 224px;
+  }
+}
+
+.Home_medicineMainContent__kRJco {
+  width: 73%;
+  padding: 0;
+  margin-right: 15px;
+  position: relative;
+}
+
+@media (max-width: 767.9px) {
+  .Home_medicineMainContent__kRJco {
+    width: 100%;
+    padding: 0;
+  }
+}
+
+.Home_orderContent__FfUVz {
+  width: 27%;
+}
+
+@media (max-width: 767.9px) {
+  .Home_orderContent__FfUVz {
+    width: 100%;
+  }
+}
+
+.Home_mmContent__F0w79 {
+  padding: 0 30px;
+}
+
+@media (max-width: 767.9px) {
+  .Home_mmContent__F0w79 {
+    padding: 0 16px 20px;
+    min-height: 2131px;
+  }
+}
+
+.Home_circleSliderContainer__hwQ8h {
+  height: 240px;
+  padding: 20px 0;
+}
+
+@media (max-width: 767.9px) {
+  .Home_circleSliderContainer__hwQ8h {
+    height: 185px;
+  }
+}
+
+.Home_specialOfferActionBtn__O2zMp {
+  margin: 0 0 6px;
+}
+
+.Home_specialOfferActionBtn__O2zMp > a {
+  padding: 0 15px;
+  display: flex;
+  display: -webkit-flex;
+  align-items: center;
+  -webkit-align-items: center;
+  justify-content: unset;
+  -webkit-justify-content: unset;
+  flex-direction: row;
+  cursor: pointer;
+  height: 53px;
+}
+
+.Home_specialOfferActionBtn__O2zMp > a > span {
+  display: inline-block;
+  margin-right: 10px;
+  font-size: 32px;
+  padding: 0;
+}
+
+.Home_specialOfferActionBtn__O2zMp > a > p {
+  margin: 0;
+  font-size: 14px;
+  font-weight: 400;
+  text-transform: capitalize;
+}
+
+@media (max-width: 767.9px) {
+  .Home_specialOfferActionBtn__O2zMp {
+    display: none;
+  }
+}
+
+.Home_xsImage__yaG2u {
+  max-width: 400px;
+  margin: 0 auto;
+  height: auto;
+}
+
+.Home_pr__tZbBN {
+  position: relative;
+  z-index: 1;
+}
+
+.Home_bannerPlaceholder__9wgRe {
+  height: 180px;
+  margin: 6px 0;
+  border-radius: 10px !important;
+}
+
+@media (max-width: 767.9px) {
+  .Home_bannerPlaceholder__9wgRe {
+    height: 140px;
+  }
+}
+
+.Home_modalBody__UgCG1 {
+  max-height: calc(100vh - 200px);
+  overflow-y: auto;
+  margin-bottom: 10px;
+  padding-bottom: 50px;
+}
+
+.Home_icon-ic_accordion_down__S9tQA:before {
+  content: "î¥‰";
+  color: #02475b;
+}
+
+.Home_icon-ic_arrow_right__dkUeg:before {
+  content: "îª’";
+  color: #02475b;
+  font-size: 40px;
+}
+
+.Home_icon-heartfilled__Ny_GT:before {
+  content: "î­½";
+  color: #890000;
+}
+
+.Home_icon-notificationOff__4SN_8:before {
+  content: "î­¾";
+  color: #02475b;
+}
+
+.Home_banner___UNx8,
+.Home_grid__0vAjy {
+  height: 110px;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 44px;
+  border-bottom: 1px solid #000;
+}
+
+.Home_cartIcon__4H8rk {
+  font-size: 36px !important;
+}
+
+@media (max-width: 767.9px) {
+  .Home_shimmerWrap__eCbR7 > div {
+    margin-bottom: 32px;
+  }
+}
+
+@media (min-width: 768px) {
+  .Home_shimmerWrap__eCbR7 > div {
+    margin-bottom: 56px;
+  }
+}
+
+.MedicineAutoSearch_medicineSearchForm__jJxYU {
+  border-radius: 8px;
+  -webkit-border-radius: 8px;
+  -moz-border-radius: 8px;
+  background: #f7f8f5;
+  padding: 8px 16px;
+  display: flex;
+  display: -webkit-flex;
+  align-items: center;
+  -webkit-align-items: center;
+  justify-content: unset;
+  -webkit-justify-content: unset;
+  flex-direction: row;
+  position: relative;
+  height: 48px;
+  border: 1px solid #e7e7e7;
+  background: #fafbf9;
+  overflow: hidden;
+  position: sticky;
+  top: 0;
+  z-index: 1;
+  width: 100%;
+}
+
+@media (max-width: 767.9px) {
+  .MedicineAutoSearch_medicineSearchForm__jJxYU {
+    height: 48px;
+    padding: 4px 16px;
+    margin: 16px 0 22px 16px;
+    width: calc(100% - 74px);
+  }
+}
+
+.MedicineAutoSearch_medicineSearchForm__jJxYU
+  .MedicineAutoSearch_searchInput__AZSSS
+  > div {
+  padding: 0;
+}
+
+.MedicineAutoSearch_medicineSearchForm__jJxYU
+  .MedicineAutoSearch_searchInput__AZSSS
+  input {
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  font-size: 16px;
+  border: none;
+  background: transparent;
+  font-weight: 600;
+  padding: 0;
+  height: auto;
+  line-height: 22px;
+  text-overflow: ellipsis;
+  overflow: hidden;
+  white-space: nowrap;
+  text-transform: capitalize;
+}
+
+@media (max-width: 767.9px) {
+  .MedicineAutoSearch_medicineSearchForm__jJxYU
+    .MedicineAutoSearch_searchInput__AZSSS
+    input {
+    font-size: 14px;
+  }
+}
+
+.MedicineAutoSearch_medicineSearchForm__jJxYU
+  .MedicineAutoSearch_searchInput__AZSSS
+  input::-moz-placeholder {
+  color: rgba(1, 71, 91, 0.5);
+  opacity: 1;
+}
+
+.MedicineAutoSearch_medicineSearchForm__jJxYU
+  .MedicineAutoSearch_searchInput__AZSSS
+  input:-ms-input-placeholder {
+  color: rgba(1, 71, 91, 0.5);
+  opacity: 1;
+}
+
+.MedicineAutoSearch_medicineSearchForm__jJxYU
+  .MedicineAutoSearch_searchInput__AZSSS
+  input::placeholder {
+  color: rgba(1, 71, 91, 0.5);
+  opacity: 1;
+}
+
+.MedicineAutoSearch_medicineSearchForm__jJxYU
+  .MedicineAutoSearch_searchInput__AZSSS
+  > div:after,
+.MedicineAutoSearch_medicineSearchForm__jJxYU
+  .MedicineAutoSearch_searchInput__AZSSS
+  > div:before {
+  display: none !important;
+}
+
+.MedicineAutoSearch_medicineSearchForm__jJxYU .MedicineAutoSearch_micIco__8aC3Z,
+.MedicineAutoSearch_medicineSearchForm__jJxYU
+  .MedicineAutoSearch_searchIco__OwVqA {
+  display: flex;
+  display: -webkit-flex;
+  align-items: center;
+  -webkit-align-items: center;
+  justify-content: center;
+  -webkit-justify-content: center;
+  flex-direction: row;
+  min-width: auto;
+  cursor: pointer;
+  padding: 0;
+  font-weight: 400;
+}
+
+@media (max-width: 767.9px) {
+  .MedicineAutoSearch_medicineSearchForm__jJxYU
+    .MedicineAutoSearch_micIco__8aC3Z,
+  .MedicineAutoSearch_medicineSearchForm__jJxYU
+    .MedicineAutoSearch_searchIco__OwVqA {
+    margin: 0 16px;
+  }
+}
+
+.MedicineAutoSearch_medicineSearchForm__jJxYU
+  .MedicineAutoSearch_searchIco__OwVqA {
+  height: 24px;
+  width: 24px;
+  margin: 0 22px 0 4px;
+  font-size: 20px;
+  color: #1a504c;
+}
+
+.MedicineAutoSearch_medicineSearchForm__jJxYU
+  .MedicineAutoSearch_searchIco__OwVqA:focus-visible,
+.MedicineAutoSearch_medicineSearchForm__jJxYU
+  .MedicineAutoSearch_searchIco__OwVqA:hover {
+  background: none;
+  box-shadow: none;
+}
+
+@media (max-width: 767.9px) {
+  .MedicineAutoSearch_medicineSearchForm__jJxYU
+    .MedicineAutoSearch_searchIco__OwVqA {
+    margin: 0 16px 0 0;
+  }
+}
+
+.MedicineAutoSearch_medicineSearchForm__jJxYU
+  .MedicineAutoSearch_micIco__8aC3Z {
+  height: 32px;
+  width: 32px;
+  font-size: 22px;
+}
+
+.MedicineAutoSearch_medicineSearchForm__jJxYU
+  .MedicineAutoSearch_handleInputSection___1otf {
+  position: relative;
+  height: 100%;
+  width: 100%;
+}
+
+.MedicineAutoSearch_medicineSearchForm__jJxYU
+  .MedicineAutoSearch_handleInputSection___1otf
+  .MedicineAutoSearch_maskInput__DZ5b4,
+.MedicineAutoSearch_medicineSearchForm__jJxYU
+  .MedicineAutoSearch_handleInputSection___1otf
+  .MedicineAutoSearch_searchInput__AZSSS {
+  position: absolute;
+  left: 0;
+  top: 50%;
+  transform: translateY(-50%);
+}
+
+.MedicineAutoSearch_medicineSearchForm__jJxYU
+  .MedicineAutoSearch_handleInputSection___1otf
+  .MedicineAutoSearch_searchInput__AZSSS {
+  z-index: 2;
+}
+
+.MedicineAutoSearch_medicineSearchForm__jJxYU
+  .MedicineAutoSearch_handleInputSection___1otf
+  .MedicineAutoSearch_maskInput__DZ5b4 {
+  z-index: 1;
+  opacity: 0.3;
+}
+
+.MedicineAutoSearch_seeMoreTag__9IunB {
+  height: 10px;
+  text-align: center;
+  color: #fc9916;
+  cursor: pointer;
+  font-weight: 400;
+  font-weight: 500;
+}
+
+@media (max-width: 767.9px) {
+  .MedicineAutoSearch_seeMoreTag__9IunB {
+    padding: 0;
+    position: absolute;
+    bottom: 70px;
+    left: 50%;
+    transform: translate(-50%);
+    z-index: 1;
+  }
+}
+
+.MedicineAutoSearch_searchBtn__ZnKoX {
+  padding: 0;
+  box-shadow: none;
+  background: transparent !important;
+  min-width: auto;
+}
+
+@media (max-width: 767.9px) {
+  .MedicineAutoSearch_searchBtn__ZnKoX {
+    margin-left: -30px;
+  }
+}
+
+.MedicineAutoSearch_autoSearchPopover__W8bJt {
+  margin-top: 20px;
+  overflow: auto;
+  scrollbar-color: #e7e7e5;
+  scrollbar-width: thin;
+}
+
+.MedicineAutoSearch_autoSearchPopover__W8bJt::-webkit-scrollbar {
+  width: 4px;
+}
+
+.MedicineAutoSearch_autoSearchPopover__W8bJt::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+.MedicineAutoSearch_autoSearchPopover__W8bJt::-webkit-scrollbar-thumb {
+  border-radius: 10px;
+  background: #e7e7e5;
+}
+
+@media (min-width: 768px) {
+  .MedicineAutoSearch_autoSearchPopover__W8bJt {
+    height: calc(100vh - 290px);
+    padding-right: 10px;
+    margin-right: -10px;
+  }
+
+  .MedicineAutoSearch_autoSearchPopover__W8bJt.MedicineAutoSearch_fullHeight__atnjd {
+    height: calc(100vh - 218px);
+  }
+}
+
+@media (max-width: 767.9px) {
+  .MedicineAutoSearch_autoSearchPopover__W8bJt {
+    margin-top: 28px;
+    padding: 0;
+    height: calc(100dvh - 170px);
+    max-height: none;
+  }
+
+  .MedicineAutoSearch_autoSearchPopover__W8bJt.MedicineAutoSearch_fullHeight__atnjd {
+    height: calc(100dvh - 100px);
+  }
+}
+
+.MedicineAutoSearch_autoSearchPopover__W8bJt
+  .MedicineAutoSearch_searchList__fyMpy {
+  background: #fff;
+}
+
+@media (max-width: 767.9px) {
+  .MedicineAutoSearch_autoSearchPopover__W8bJt
+    .MedicineAutoSearch_searchList__fyMpy {
+    background: #fff;
+    padding: 0 16px;
+  }
+
+  .MedicineAutoSearch_autoSearchPopover__W8bJt
+    .MedicineAutoSearch_searchList__fyMpy
+    li {
+    align-items: flex-end;
+    margin-bottom: 18px;
+  }
+
+  .MedicineAutoSearch_autoSearchPopover__W8bJt
+    .MedicineAutoSearch_searchList__fyMpy
+    li
+    > a {
+    align-items: flex-start;
+  }
+
+  .MedicineAutoSearch_autoSearchPopover__W8bJt
+    .MedicineAutoSearch_searchList__fyMpy
+    li
+    > button {
+    font-size: 14px;
+    font-weight: 400;
+    font-weight: 500;
+    line-height: 24px;
+  }
+}
+
+.MedicineAutoSearch_autoSearchPopover__W8bJt
+  .MedicineAutoSearch_itemSelected__9_JB_ {
+  background: #f7f8f5;
+}
+
+.MedicineAutoSearch_autoSearchPopover__W8bJt
+  .MedicineAutoSearch_searchBtnDisabled__DmGt_ {
+  opacity: 0.5;
+}
+
+.MedicineAutoSearch_autoSearchPopover__W8bJt
+  .MedicineAutoSearch_progressLoader__Tnd0f {
+  text-align: center;
+  padding: 20px;
+}
+
+.MedicineAutoSearch_autoSearchPopover__W8bJt
+  .MedicineAutoSearch_helpText__hAKDU {
+  padding: 0 20px;
+}
+
+.MedicineAutoSearch_autoSearchPopover__W8bJt .MedicineAutoSearch_noData__8NP2f {
+  display: block;
+  margin: 5px 0 0;
+  font-size: 14px;
+  line-height: 18px;
+}
+
+@media (max-width: 767.9px) {
+  .MedicineAutoSearch_autoSearchPopover__W8bJt
+    .MedicineAutoSearch_fixHeight__HMrzC {
+    min-height: 320px;
+    overflow: auto;
+    box-shadow: 0 0 7px 0 hsla(0, 0%, 50%, 0.3);
+  }
+
+  .MedicineAutoSearch_autoSearchPopover__W8bJt
+    .MedicineAutoSearch_fixHeight__HMrzC::-webkit-scrollbar {
+    width: 8px;
+  }
+
+  .MedicineAutoSearch_autoSearchPopover__W8bJt
+    .MedicineAutoSearch_fixHeight__HMrzC::-webkit-scrollbar-thumb {
+    background: #fc9916;
+    border-radius: 5px;
+  }
+}
+
+.MedicineAutoSearch_autoSearchPopover__W8bJt
+  .MedicineAutoSearch_uploadSearchMain__YunCY {
+  box-shadow: none;
+}
+
+.MedicineAutoSearch_autoSearchPopover__W8bJt
+  .MedicineAutoSearch_uploadSearchList__L50Fw {
+  background: #fff;
+}
+
+.MedicineAutoSearch_autoSearchPopover__W8bJt
+  .MedicineAutoSearch_uploadSearchList__L50Fw
+  li
+  a {
+  display: flex;
+  display: -webkit-flex;
+  align-items: center;
+  -webkit-align-items: center;
+  justify-content: space-between;
+  -webkit-justify-content: space-between;
+  flex-direction: row;
+}
+
+.MedicineAutoSearch_autoSearchPopover__W8bJt
+  .MedicineAutoSearch_searchBoxPDP__t9ZVY {
+  width: calc(100% - 27px);
+  margin: 0 0 10px;
+}
+
+@media (max-width: 767.9px) {
+  .MedicineAutoSearch_autoSearchPopover__W8bJt
+    .MedicineAutoSearch_searchResultsLoadRoot__kvVyH {
+    margin: 5px 16px;
+  }
+}
+
+.MedicineAutoSearch_autoSearchPopover__W8bJt
+  .MedicineAutoSearch_searchResultsLoadRoot__kvVyH
+  > div {
+  margin-bottom: 15px;
+}
+
+@media (max-width: 767.9px) {
+  .MedicineAutoSearch_autoSearchPopover__W8bJt
+    .MedicineAutoSearch_suggestionListRoot__0Pj_E {
+    padding: 0 8px;
+  }
+}
+
+.MedicineAutoSearch_autoSearchPopover__W8bJt
+  .MedicineAutoSearch_typeSugestListRoot__x3Xgs {
+  width: 100%;
+}
+
+.MedicineAutoSearch_viewResult__VG5hP {
+  height: 75px;
+  background: #fff;
+  display: flex;
+  display: -webkit-flex;
+  align-items: center;
+  -webkit-align-items: center;
+  justify-content: center;
+  -webkit-justify-content: center;
+  flex-direction: row;
+}
+
+.MedicineAutoSearch_viewResult__VG5hP
+  .MedicineAutoSearch_viewAllResultBtn__l0DzD {
+  min-width: 314px;
+  border-radius: 20px;
+  -webkit-border-radius: 20px;
+  -moz-border-radius: 20px;
+  justify-content: center;
+  color: #165d59;
+  border-color: #165d59;
+}
+
+@media (max-width: 767.9px) {
+  .MedicineAutoSearch_viewResult__VG5hP
+    .MedicineAutoSearch_viewAllResultBtn__l0DzD {
+    min-width: 0;
+    min-width: auto;
+    height: 32px;
+  }
+
+  .MedicineAutoSearch_viewResult__VG5hP
+    .MedicineAutoSearch_viewAllResultBtn__l0DzD
+    > span {
+    font-size: 12px;
+  }
+}
+
+.MedicineAutoSearch_notFoundScreen__Iq5cs {
+  padding: 36px 16px;
+}
+
+.MedicineAutoSearch_notFoundScreen__Iq5cs .MedicineAutoSearch_icon__tJxqa {
+  height: 180px;
+  width: 180px;
+  margin: 0 auto 24px;
+}
+
+.MedicineAutoSearch_notFoundScreen__Iq5cs
+  .MedicineAutoSearch_icon__tJxqa
+  > img {
+  max-height: 100%;
+  max-width: 100%;
+  -o-object-fit: contain;
+  object-fit: contain;
+}
+
+.MedicineAutoSearch_notFoundScreen__Iq5cs .MedicineAutoSearch_text__6xDvP {
+  font-size: 16px;
+  line-height: 28px;
+  width: 100%;
+  max-width: 517px;
+  margin: 0 auto 40px;
+  font-weight: 500;
+  text-align: center;
+}
+
+@media (max-width: 767.9px) {
+  .MedicineAutoSearch_notFoundScreen__Iq5cs .MedicineAutoSearch_text__6xDvP {
+    font-size: 12px;
+    line-height: 15px;
+    margin-bottom: 32px;
+  }
+}
+
+.MedicineAutoSearch_tabMain__xKSRm {
+  background: #fff;
+  position: sticky;
+  top: -2px;
+  z-index: 3;
+  padding-top: 16px;
+  margin-bottom: 24px;
+}
+
+@media (max-width: 767.9px) {
+  .MedicineAutoSearch_tabMain__xKSRm {
+    padding: 16px 16px 0;
+  }
+}
+
+.MedicineAutoSearch_tabRoot__V8I1U {
+  height: 40px;
+  border: 1px solid #006a55;
+  padding: 4px;
+}
+
+.MedicineAutoSearch_tabRoot__V8I1U,
+.MedicineAutoSearch_tabRoot__V8I1U .MedicineAutoSearch_tabList__yaJKA {
+  display: flex;
+  display: -webkit-flex;
+  align-items: center;
+  -webkit-align-items: center;
+  justify-content: center;
+  -webkit-justify-content: center;
+  flex-direction: row;
+  border-radius: 20px;
+  -webkit-border-radius: 20px;
+  -moz-border-radius: 20px;
+}
+
+.MedicineAutoSearch_tabRoot__V8I1U .MedicineAutoSearch_tabList__yaJKA {
+  position: relative;
+  width: 33.33%;
+  flex-shrink: 0;
+  overflow: hidden;
+  height: 100%;
+}
+
+.MedicineAutoSearch_tabRoot__V8I1U .MedicineAutoSearch_tabList__yaJKA:before {
+  content: "";
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  left: 0;
+  top: 0;
+  z-index: -1;
+  transition: all 0.2s ease-in-out;
+}
+
+.MedicineAutoSearch_tabRoot__V8I1U
+  .MedicineAutoSearch_tabList__yaJKA.MedicineAutoSearch_active__yR_h7,
+.MedicineAutoSearch_tabRoot__V8I1U .MedicineAutoSearch_tabList__yaJKA:hover {
+  color: #fff;
+}
+
+.MedicineAutoSearch_tabRoot__V8I1U
+  .MedicineAutoSearch_tabList__yaJKA.MedicineAutoSearch_active__yR_h7:before,
+.MedicineAutoSearch_tabRoot__V8I1U
+  .MedicineAutoSearch_tabList__yaJKA:hover:before {
+  background: #006a55;
+}
+
+.MedicineAutoSearch_scroll__UmAAZ {
+  overflow: auto;
+}
+
+.MedicineAutoSearch_scroll__UmAAZ::-webkit-scrollbar {
+  width: 4px;
+  height: 4px;
+}
+
+.MedicineAutoSearch_scroll__UmAAZ::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+.MedicineAutoSearch_scroll__UmAAZ::-webkit-scrollbar-thumb {
+  background: #d9d9d7;
+  height: 20px;
+}
+
+.MedicineAutoSearch_icon-mic__94br7:before {
+  content: "î®”";
+  color: #228a87;
+}
+
+.MedicineAutoSearch_icon-searchIcon__BUDB7:before {
+  content: "î®•";
+}
+
+.MedicineAutoSearch_icon-ic-search__l_1r3:before {
+  content: "î¨¦";
+  color: #00b38e;
+}
+
+.MedicineAutoSearch_icon-ic_cross__mmJGg:before {
+  content: "î¥¯";
+  color: #02475b;
+}
+
+.SearchPlaceholder_searchRoot__QGs51 {
+  width: 100%;
+  border: 1px solid #e7e7e7;
+  border-radius: 8px;
+  -webkit-border-radius: 8px;
+  -moz-border-radius: 8px;
+  padding: 10px 16px;
+  display: flex;
+  display: -webkit-flex;
+  align-items: center;
+  -webkit-align-items: center;
+  justify-content: flex-start;
+  -webkit-justify-content: flex-start;
+  flex-direction: row;
+  background: #f7f7f7;
+}
+
+@media (min-width: 768px) {
+  .SearchPlaceholder_searchRoot__QGs51 {
+    height: 40px;
+  }
+}
+
+@media (max-width: 767.9px) {
+  .SearchPlaceholder_searchRoot__QGs51 {
+    height: 48px;
+  }
+}
+
+.SearchPlaceholder_searchRoot__QGs51 .SearchPlaceholder_icon__pLBc0 {
+  height: 16px;
+  width: 16px;
+  display: flex;
+  display: -webkit-flex;
+  align-items: center;
+  -webkit-align-items: center;
+  justify-content: center;
+  -webkit-justify-content: center;
+  flex-direction: row;
+  flex-shrink: 0;
+  font-size: 16px;
+}
+
+.SearchPlaceholder_searchRoot__QGs51 .SearchPlaceholder_icon__pLBc0:before {
+  color: #121414;
+}
+
+.SearchPlaceholder_searchRoot__QGs51
+  .SearchPlaceholder_icon__pLBc0.SearchPlaceholder_searchIco__9OJKL {
+  margin-right: 14px;
+  cursor: pointer;
+}
+
+@media (max-width: 767.9px) {
+  .SearchPlaceholder_searchRoot__QGs51
+    .SearchPlaceholder_icon__pLBc0.SearchPlaceholder_searchIco__9OJKL {
+    font-size: 18px;
+  }
+
+  .SearchPlaceholder_searchRoot__QGs51
+    .SearchPlaceholder_icon__pLBc0.SearchPlaceholder_searchIco__9OJKL:before {
+    color: #1a504c;
+  }
+}
+
+.SearchPlaceholder_searchRoot__QGs51
+  .SearchPlaceholder_icon__pLBc0.SearchPlaceholder_micIcox__P60w3 {
+  margin-left: 12px;
+}
+
+.SearchPlaceholder_searchRoot__QGs51 .SearchPlaceholder_inputBx__R6d_d {
+  width: 100%;
+  border: 0;
+  outline: 0;
+  background: transparent;
+  height: 100%;
+}
+
+.SearchPlaceholder_searchRoot__QGs51
+  .SearchPlaceholder_inputBx__R6d_d::-moz-placeholder {
+  color: #bebebb;
+  font-size: 14px;
+  line-height: 18px;
+  font-weight: 400;
+}
+
+.SearchPlaceholder_searchRoot__QGs51
+  .SearchPlaceholder_inputBx__R6d_d:-ms-input-placeholder {
+  color: #bebebb;
+  font-size: 14px;
+  line-height: 18px;
+  font-weight: 400;
+}
+
+.SearchPlaceholder_searchRoot__QGs51
+  .SearchPlaceholder_inputBx__R6d_d::placeholder {
+  color: #bebebb;
+  font-size: 14px;
+  line-height: 18px;
+  font-weight: 400;
+}
+
+@media (max-width: 767.9px) {
+  .SearchPlaceholder_searchRoot__QGs51
+    .SearchPlaceholder_inputBx__R6d_d::-moz-placeholder {
+    font-size: 14px;
+  }
+
+  .SearchPlaceholder_searchRoot__QGs51
+    .SearchPlaceholder_inputBx__R6d_d:-ms-input-placeholder {
+    font-size: 14px;
+  }
+
+  .SearchPlaceholder_searchRoot__QGs51
+    .SearchPlaceholder_inputBx__R6d_d::placeholder {
+    font-size: 14px;
+  }
+}
+
+.WhatsappSticky_stickyWhatsupWraper__UUzpE {
+  position: fixed;
+  right: 16px;
+  bottom: 150px;
+  z-index: 99;
+  width: 56px;
+  transition: all 0.2s ease-in-out;
+  filter: drop-shadow(0 2px 8px rgba(190, 190, 187, 0.6));
+}
+
+@media (max-width: 767.9px) {
+  .WhatsappSticky_stickyWhatsupWraper__UUzpE {
+    bottom: 180px;
+  }
+}
+
+.WhatsappSticky_stickyWhatsupWraper__UUzpE
+  .WhatsappSticky_stickyWhatsup__2lLjw
+  .WhatsappSticky_whatsupIco__weDmC {
+  background: #61c857;
+  box-shadow: 0 2px 8px hsla(60, 2%, 74%, 0.6);
+  display: inline-block;
+  cursor: pointer;
+  border-radius: 50%;
+  -webkit-border-radius: 50%;
+  -moz-border-radius: 50%;
+}
+
+@media (min-width: 768px) {
+  .WhatsappSticky_stickyWhatsupWraper__UUzpE
+    .WhatsappSticky_stickyWhatsup__2lLjw
+    .WhatsappSticky_whatsupIco__weDmC {
+    width: 56px;
+    height: 56px;
+    padding: 16px;
+  }
+}
+
+@media (max-width: 767.9px) {
+  .WhatsappSticky_stickyWhatsupWraper__UUzpE
+    .WhatsappSticky_stickyWhatsup__2lLjw
+    .WhatsappSticky_whatsupIco__weDmC {
+    width: 48px;
+    height: 48px;
+    padding: 12px;
+  }
+}
+
+.WhatsappSticky_stickyWhatsupWraper__UUzpE.WhatsappSticky_expandWrapper__Ip_0v {
+  display: flex;
+  border-radius: 30px 0 0 30px;
+  -webkit-border-radius: 30px 0 0 30px;
+  -moz-border-radius: 30px 0 0 30px;
+  transition: width 0.2s ease-in-out;
+  background: #e9faee;
+  width: 260px;
+}
+
+.WhatsappSticky_stickyWhatsupWraper__UUzpE.WhatsappSticky_expandWrapper__Ip_0v
+  .WhatsappSticky_stickyWhatsup__2lLjw {
+  right: 220px;
+}
+
+.WhatsappSticky_stickyWhatsupWraper__UUzpE.WhatsappSticky_expandWrapper__Ip_0v
+  .WhatsappSticky_expandBlock__ucEi0 {
+  display: flex;
+  display: -webkit-flex;
+  align-items: center;
+  -webkit-align-items: center;
+  justify-content: space-between;
+  -webkit-justify-content: space-between;
+  flex-direction: row;
+  padding: 12px;
+  width: 100%;
+}
+
+@media (min-width: 768px) {
+  .WhatsappSticky_stickyWhatsupWraper__UUzpE.WhatsappSticky_expandWrapper__Ip_0v
+    .WhatsappSticky_expandBlock__ucEi0 {
+    height: 56px;
+  }
+}
+
+@media (max-width: 767.9px) {
+  .WhatsappSticky_stickyWhatsupWraper__UUzpE.WhatsappSticky_expandWrapper__Ip_0v
+    .WhatsappSticky_expandBlock__ucEi0 {
+    height: 48px;
+  }
+}
+
+.WhatsappSticky_stickyWhatsupWraper__UUzpE.WhatsappSticky_expandWrapper__Ip_0v
+  .WhatsappSticky_expandBlock__ucEi0
+  .WhatsappSticky_expandTxt__aRqKt {
+  white-space: nowrap;
+  width: auto;
+  opacity: 1;
+  color: #000;
+  margin: 0;
+  font-size: 14px;
+  cursor: pointer;
+  line-height: 20px;
+}
+
+.WhatsappSticky_stickyWhatsupWraper__UUzpE.WhatsappSticky_expandWrapper__Ip_0v
+  .WhatsappSticky_expandBlock__ucEi0
+  .WhatsappSticky_expandTxt__aRqKt
+  > span {
+  display: block;
+  font-weight: 600;
+}
+
+.WhatsappSticky_stickyWhatsupWraper__UUzpE.WhatsappSticky_expandWrapper__Ip_0v
+  .WhatsappSticky_expandBlock__ucEi0
+  .WhatsappSticky_closeBtn__2wdVD {
+  background: none;
+  border: 1px solid #e9faee;
+  color: #000;
+  font-size: 22px;
+  cursor: pointer;
+  padding: 0 6px;
+  display: flex;
+  display: -webkit-flex;
+  align-items: center;
+  -webkit-align-items: center;
+  justify-content: center;
+  -webkit-justify-content: center;
+  flex-direction: row;
+}
+
+.WhatsappSticky_icon-ic_cross__ka5uu:before {
+  content: "î¥¯";
+  color: #02475b;
+}
+
+.HelpAssistanceSticky_chatButtonMain__LhfbA {
+  position: fixed;
+  bottom: 80px;
+  right: 16px;
+  width: 56px;
+  height: 56px;
+  z-index: 10;
+}
+
+.HelpAssistanceSticky_chatButtonMain__LhfbA
+  .HelpAssistanceSticky_chatAssitanceIcon__4Jw4K {
+  border-radius: 50%;
+  -webkit-border-radius: 50%;
+  -moz-border-radius: 50%;
+  background: #121414;
+  display: flex;
+  display: -webkit-flex;
+  align-items: center;
+  -webkit-align-items: center;
+  justify-content: center;
+  -webkit-justify-content: center;
+  flex-direction: row;
+  width: 56px;
+  height: 56px;
+  position: relative;
+  z-index: 2;
+  transition: all 0.2s ease-in-out;
+  filter: drop-shadow(0 2px 8px rgba(190, 190, 187, 0.6));
+  cursor: pointer;
+}
+
+.HelpAssistanceSticky_chatButtonMain__LhfbA
+  .HelpAssistanceSticky_chatSlide__HAowv {
+  font-size: 14px;
+  line-height: 16px;
+  font-weight: 600;
+  cursor: pointer;
+  background-color: #fff;
+  box-shadow: 0 0 4px rgba(0, 0, 0, 0.25);
+  border-radius: 42px 0 0 42px;
+  width: 0;
+  height: 56px;
+  position: absolute;
+  top: 0;
+  right: 16px;
+  z-index: 1;
+  transition: all 0.4s ease-in-out;
+  opacity: 0;
+  overflow: hidden;
+}
+
+.HelpAssistanceSticky_chatButtonMain__LhfbA.HelpAssistanceSticky_open__Vao21
+  .HelpAssistanceSticky_chatSlide__HAowv {
+  width: 240px;
+  padding: 12px 28px 12px 18px;
+  opacity: 1;
+}
+
+.HelpAssistanceSticky_icon-helpAssistance__JsOGL:before {
+  content: "î®£";
+  color: #fff;
+}
+
+.SeoContent_seoContentWrap__A_4JK {
+  border-top: 1px solid #e7e7e5;
+  margin-top: 40px;
+  padding: 20px 0;
+  position: relative;
+  background: #fff;
+}
+
+@media only screen and (max-width: 767px) {
+  .SeoContent_seoContentWrap__A_4JK {
+    padding: 0 0 40px;
+    border-top: 1px dashed #02475b;
+    border-bottom: 1px dashed #02475b;
+  }
+}
+
+.SeoContent_seoContentWrap__A_4JK .SeoContent_seoContent__5UwrD p,
+.SeoContent_seoContentWrap__A_4JK .SeoContent_seoContent__5UwrD ul li {
+  font-size: 12px;
+  line-height: 16px;
+  color: #71716e;
+}
+
+.SeoContent_seoContentWrap__A_4JK .SeoContent_seoContent__5UwrD ul {
+  padding: 20px;
+}
+
+.SeoContent_seoContentWrap__A_4JK .SeoContent_seoContent__5UwrD ul > li {
+  list-style: disc;
+  padding-left: 10px;
+}
+
+@media only screen and (max-width: 767px) {
+  .SeoContent_seoContentWrap__A_4JK
+    .SeoContent_seoContent__5UwrD.SeoContent_open__Bgu0p {
+    max-height: none;
+  }
+}
+
+.SeoContent_seoContentWrap__A_4JK .SeoContent_expandBtn__jwEU4 {
+  font-size: 13px;
+  line-height: 17px;
+  color: #fc9916;
+  font-weight: 400;
+  font-weight: 700;
+  text-transform: uppercase;
+  border: none;
+  outline: none;
+  background: transparent;
+  position: absolute;
+  right: 20px;
+  bottom: 12px;
+  display: none;
+}
+
+@media only screen and (max-width: 767px) {
+  .SeoContent_seoContentWrap__A_4JK .SeoContent_expandBtn__jwEU4 {
+    display: inline-block;
+  }
+}
+
+.SeoContent_seoContentWrap__A_4JK h1,
+.SeoContent_seoContentWrap__A_4JK h2,
+.SeoContent_seoContentWrap__A_4JK h3,
+.SeoContent_seoContentWrap__A_4JK h4,
+.SeoContent_seoContentWrap__A_4JK h5,
+.SeoContent_seoContentWrap__A_4JK h6 {
+  font-size: 14px;
+  line-height: 20px;
+  margin: 32px 0 16px;
+  font-weight: 600;
+}
+
+.SeoContent_seoContentWrap__A_4JK h1,
+.SeoContent_seoContentWrap__A_4JK h2,
+.SeoContent_seoContentWrap__A_4JK h3,
+.SeoContent_seoContentWrap__A_4JK h4,
+.SeoContent_seoContentWrap__A_4JK h5,
+.SeoContent_seoContentWrap__A_4JK h6,
+.SeoContent_seoContentWrap__A_4JK p {
+  line-height: 1.5;
+}
+
+.SeoContent_seoContentWrap__A_4JK a {
+  font-weight: 400;
+  font-weight: 600;
+}
+
+.Faq_faqContainer___owZn {
+  margin-top: 40px;
+}
+
+@media only screen and (max-width: 768px) {
+  .Faq_faqContainer___owZn {
+    padding: 0 0 40px;
+  }
+}
+
+.Faq_faqContent__awReb {
+  width: 100%;
+  background: #fff;
+  border-radius: 5px;
+  font-size: 14px;
+  line-height: 23px;
+}
+
+.Faq_faqContent__awReb > h2 {
+  margin: 0 0 15px;
+  font-size: 24px;
+  line-height: 28px;
+  font-weight: 700;
+}
+
+@media (max-width: 767.9px) {
+  .Faq_faqContent__awReb > h2 {
+    font-size: 16px;
+    line-height: 19px;
+  }
+}
+
+.Faq_faqContent__awReb p {
+  color: #71716e;
+}
+
+@media only screen and (max-width: 768px) {
+  .Faq_faqContent__awReb {
+    margin-top: 0;
+    box-shadow: none;
+    min-height: 200px;
+  }
+}
+
+.Faq_expandIcon__fpoFG {
+  width: 10px;
+  height: 10px;
+  margin: 5px 0;
+  border-color: transparent #02475b #02475b transparent;
+  border-style: solid;
+  border-width: 2px;
+  transform: rotate(45deg);
+  transition: 0.2s ease;
+  position: relative;
+  border-radius: 2px;
+}
+
+.Faq_expandIcon__fpoFG.Faq_active__pmfut {
+  transform: rotate(225deg);
+}
+
+.Faq_accordion____AuJ {
+  border-bottom: 1px solid rgba(2, 71, 91, 0.3);
+}
+
+.Faq_accordion____AuJ:last-child {
+  border: none;
+}
+
+.Faq_accordion____AuJ .Faq_accordionHeader__OnnqX {
+  padding: 12px 0;
+  display: flex;
+  display: -webkit-flex;
+  align-items: flex-start;
+  -webkit-align-items: flex-start;
+  justify-content: flex-start;
+  -webkit-justify-content: flex-start;
+  flex-direction: row;
+  cursor: pointer;
+  min-height: 56px;
+}
+
+.Faq_accordion____AuJ .Faq_accordionHeader__OnnqX h2 {
+  font-size: 14px;
+  line-height: 20px;
+  margin: 0;
+  font-weight: 600;
+}
+
+@media only screen and (max-width: 768px) {
+  .Faq_accordion____AuJ .Faq_accordionHeader__OnnqX h2 {
+    width: 90%;
+  }
+}
+
+.Faq_accordion____AuJ .Faq_accordionBody__jQXGA {
+  padding: 0 0 20px;
+}
+
+.Faq_accordion____AuJ .Faq_accordionBody__jQXGA .Faq_faqAns__AKJfh {
+  font-size: 12px;
+  line-height: 20px;
+}
+
+.Faq_displayNone___Igm2 {
+  display: none;
+}
+
+/*# sourceMappingURL=35ff94c209a71eac.css.map*/
